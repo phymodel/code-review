@@ -1,7 +1,7 @@
 ---
 name: Code review
 description: Read-only code review specialist; inspects files and returns findings.
-preset_id: deepseek:v4-pro
+preset_id: deepseek-flash
 tools: read_file, grep_workspace, glob_files, list_directory
 ---
 
